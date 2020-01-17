@@ -1,0 +1,56 @@
+{
+  "user": [{
+    "id":1,
+    "name":"Chris Hemsworth"
+    },
+  {
+    "id":2,
+    "name":"John Cena"
+    },
+  {
+    "id":3,
+    "name":"Carol Johnson"
+    }],
+  "post": [{
+    "genre": {
+      "code": [{
+        "Lua Coding": [{
+          "id":1,
+          "title":"Help with backdooring",
+          "author":1,
+          "content":"Hello I was wondering if anyone has any tutorials on how I back door a gmod server so that I can take control and get super admin and stuff. I already have odium back door.lua but it only works on servers that are backdoored. I do not want to search through hundreds of servers just to find one that works I'd rather just do it myself on a small server - Thank you :)"
+          },
+        {
+          "id":2,
+          "title":"Need account checkers",
+          "author":2,
+          "content":"Hello i need a few account checkers for different accounts. anyone who can do this please type how much you would charge thanks."
+        },
+        {
+          "id":3,
+          "title":"[Help] How to bridge Lua & C++ for plugins?",
+          "author":3,
+          "content":"hi"
+          }]
+        }],
+        "Web": [{
+          "Wordpress, Drupal, Joomla": [{
+            "id":1,
+            "title":"Looking for wordpress plugin",
+            "author":1,
+            "content":"I look for a wordpress plugin that allows user to create a listing with their bio and social media links on my site for a fee. It should also have some shortcode so I can include a section in the home page where every listing would appear. Do you know of a plugin that does that?)"
+            },
+          {
+            "id":2,
+            "title":"Joomla Templates",
+            "author":2,
+            "content":"Could someone post/link me to some good joomla templates? I have searched google over and over... And i've yet to find one."
+          },
+          {
+            "id":3,
+            "title":"[Wordpress] WordPress developer",
+            "author":3,
+            "content":"WordPress developer wanted for my website. Please PM me your skype."
+            }]
+          }]
+      }
